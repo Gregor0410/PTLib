@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "ptlib",
+  "version": "${version}",
+  "name": "Ptlib",
+  "description": "Library for practice and tourney mods",
+  "authors": [
+    "Gregor0410"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/ptlib/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.gregor0410.ptlib.PTLib"
+    ]
+  },
+  "mixins": [
+    "ptlib.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.2",
+    "minecraft": "1.16.1"
+  }
+}

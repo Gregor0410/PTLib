@@ -1,0 +1,104 @@
+```{
+    "structureRegions":{
+        "village":{
+            "spacing":32,
+            "separation":8,
+            "salt":10387312
+        },"desert_pyramid":{
+            "spacing":32,
+            "separation":8,
+            "salt":14357617
+        },"igloo":{
+            "spacing":32,
+            "separation":8,
+            "salt":14357618
+        },"jungle_pyramid":{
+            "spacing":32,
+            "separation":8,
+            "salt":14357619
+        },"swamp_hut":{
+            "spacing":32,
+            "separation":8,
+            "salt":14357620
+        },"pillager_outpost":{
+            "spacing":32,
+            "separation":8,
+            "salt":165745296
+        },"stronghold":{
+            "spacing":1,
+            "separation":0,
+            "salt":0
+        },"monument":{
+            "spacing":32,
+            "separation":5,
+            "salt":10387313
+        },"end_city":{
+            "spacing":20,
+            "separation":11,
+            "salt":10387313
+        },"mansion":{
+            "spacing":80,
+            "separation":20,
+            "salt":10387319
+        },"buried_treasure":{
+            "spacing":1,
+            "separation":0,
+            "salt":0
+        },"mineshaft":{
+            "spacing":1,
+            "separation":0,
+            "salt":0
+        },"ruined_portal":{
+            "spacing":40,
+            "separation":15,
+            "salt":34222645
+        },"shipwreck":{
+            "spacing":24,
+            "separation":4,
+            "salt":165745295
+        },"ocean_ruin":{
+            "spacing":20,
+            "separation":8,
+            "salt":14357621
+        },"bastion_remnant":{
+            "spacing":27,
+            "separation":4,
+            "salt":30084232
+        },"fortress":{
+            "spacing":27,
+            "separation":4,
+            "salt":30084232
+        },"nether_fossil":{
+            "spacing":2,
+            "separation":1,
+            "salt":14357921
+        },"nether_ruined_portal":{
+            "spacing":25,
+            "separation":10,
+            "salt":34222645
+        }
+    }
+}
+```
+
+
+("shipwreck/with_mast"),
+("shipwreck/upsidedown_full"),
+("shipwreck/upsidedown_fronthalf"),
+("shipwreck/upsidedown_backhalf"),
+("shipwreck/sideways_full"),
+("shipwreck/sideways_fronthalf")
+("shipwreck/sideways_backhalf"),
+("shipwreck/rightsideup_full"),
+("shipwreck/rightsideup_fronthalf"),
+("shipwreck/rightsideup_backhalf"),
+("shipwreck/with_mast_degraded"),
+("shipwreck/upsidedown_full_degraded"),
+("shipwreck/upsidedown_fronthalf_degraded"),
+("shipwreck/upsidedown_backhalf_degraded"),
+("shipwreck/sideways_full_degraded"),
+("shipwreck/sideways_fronthalf_degraded"),
+("shipwreck/sideways_backhalf_degraded"),
+("shipwreck/rightsideup_full_degraded"),
+("shipwreck/rightsideup_fronthalf_degraded"),
+("shipwreck/rightsideup_backhalf_degraded")

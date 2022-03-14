@@ -1,0 +1,29 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.gregor0410.ptlib.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "AbstractBlockMixin",
+    "BastionRemnantFeatureConfigMixin",
+    "BastionRemnantFeatureMixin",
+    "BuriedTreasureFeatureMixin",
+    "ChunkGeneratorTypeMixin",
+    "EyeOfEnderEntityMixin",
+    "HoldingPatternPhaseMixin",
+    "LavaLakeDecoratorMixin",
+    "LivingEntityMixin",
+    "MobSpawnerLogicMixin",
+    "NetherFortressFeatureMixin",
+    "PiglinBrainMixin",
+    "ServerWorldMixin",
+    "ShipwreckGeneratorMixin",
+    "SpikeCacheMixin",
+    "StructuresConfigMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
